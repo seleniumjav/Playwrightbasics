@@ -1,0 +1,6 @@
+name,email,password,title,birth_date,birth_month,birth_year,firstname,lastname,company,address1,address2,country,zipcode,state,city,mobile_number
+Rahul Sharma,rahul.qa01@example.com,Test@12345,Mr,15,8,1998,Rahul,Sharma,ABC Technologies,123 MG Road,Near City Center,India,560001,Karnataka,Bengaluru,9876543210
+Priya Patel,priya.qa02@example.com,Test@12345,Mrs,22,4,1996,Priya,Patel,XYZ Solutions,45 Park Street,Apartment 2,India,400001,Maharashtra,Mumbai,9876543211
+Amit Kumar,amit.qa03@example.com,Test@12345,Mr,10,12,1995,Amit,Kumar,Tech World,78 Anna Salai,Floor 3,India,600002,Tamil Nadu,Chennai,9876543212
+Sneha Reddy,sneha.qa04@example.com,Test@12345,Mrs,5,6,1999,Sneha,Reddy,Digital Labs,22 Hitech City Road,Block B,India,500081,Telangana,Hyderabad,9876543213
+Arjun Mehta,arjun.qa05@example.com,Test@12345,Mr,18,2,1997,Arjun,Mehta,Global Systems,90 FC Road,Suite 10,India,411004,Maharashtra,Pune,9876543214
